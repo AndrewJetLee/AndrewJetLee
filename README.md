@@ -7,17 +7,16 @@ Take a look at the projects I have been working on and feel free to contact me i
 
 Skills: Front End - Javascript, HTML, CSS, JQuery, React, Next.js, SASS, MaterialUI, Tailwind CSS, Bootstrap, Typescript  Back End - NodeJS, Express, MongoDB, PostgreSQL, NGINX  Testing/Deployment - AWS, Azure, Heroku, Git, Github, Webpack, Agile/Scrum Methodologies, Jest, Enzyme, Mocha, Chai, Trello, Loader.io, K6
 
-- 🔭 I’m currently working on linked-in-clone 
-
+👀 I’m interested in:
+📈 I’m currently working on: linked-in-clone 
+📫 How to reach me: 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrewjetlee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrewjetlee/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjetlee&show_icons=true)  
 
 
-👀 I’m interested in ...
-📈 I’m currently working on: Linkedin Clone, Social Media app
-📫 How to reach me: 
+
 
 <!---
 AndrewJetLee/AndrewJetLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
