@@ -4,7 +4,7 @@
 I spend most of my time working on projects or learning new technologies. 
 Take a look at the projects I have been working on and feel free to contact me if you have any questions or to connect for whatever reason!
 
-- 🔭 I’m currently working on [E-Commerce-App v2 API](https://github.com/AndrewJetLee/e-commerce-app-v2-api)
+- 🔭 I’m currently working on [E-Commerce-App v2 client](https://github.com/AndrewJetLee/e-commerce-app-v2-client)
 
 - 🌱 I’m currently learning **Typescript, Next.js, Functional Programming**
 
